@@ -1,0 +1,469 @@
+TSmartPantry
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Info.plist SmartPantry/SmartPantry-Info.plist
+cProcessPCH /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.pth SmartPantry/SmartPantry-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry normal i386
+cGenerateDSYMFile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry
+cCopyStringsFile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj/InfoPlist.strings SmartPantry/en.lproj/InfoPlist.strings
+cCpResource SmartPantry/Default.png Build/Products/Debug-iphonesimulator/SmartPantry.app/Default.png
+cCpResource SmartPantry/Default@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/Default@2x.png
+cCpResource SmartPantry/Default-568h@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/Default-568h@2x.png
+cCompileStoryboard /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/MainStoryboard.storyboard
+cCpResource SmartPantry/first.png Build/Products/Debug-iphonesimulator/SmartPantry.app/first.png
+cCpResource SmartPantry/first@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/first@2x.png
+cCpResource SmartPantry/second.png Build/Products/Debug-iphonesimulator/SmartPantry.app/second.png
+cCpResource SmartPantry/second@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/second@2x.png
+cTouch /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510C915D0000000000228FE0
+t1359778141
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510C916400000000003DDFA0
+t1359778148
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050CE9C7100000000000015F7
+t1355717745
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510C916F0000000000000E8D
+t1359778159
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510C91710000000000AB6230
+t1359778161
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000510C919A0000000000001B73
+t1359778202
+s7027
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.pth
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.o
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.o
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SmartPantry.LinkFileList
+c000000005144D755000000000000040C
+t1363466069
+s1036
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Default.png
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Default@2x.png
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Info.plist
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/PkgInfo
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/first.png
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/first@2x.png
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/second.png
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/second@2x.png
+t2
+s0
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.m
+c000000005144CB2700000000000007E0
+t1363462951
+s2016
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m
+c000000005144CB27000000000000020A
+t1363462951
+s522
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m
+c000000005144D30000000000000000DE
+t1363464960
+s222
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m
+c000000005144D3C700000000000002E9
+t1363465159
+s745
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m
+c000000005144CB27000000000000020E
+t1363462951
+s526
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SmartPantry-Prefix.pch
+c000000005144CB270000000000000145
+t1363462951
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/InfoPlist.strings
+c000000005144CB27000000000000002D
+t1363462951
+s45
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/MainStoryboard.storyboard
+c000000005144D3CD0000000000002B27
+t1363465165
+s11047
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/first.png
+c000000005094C3F800000000000000FD
+t1351926776
+s253
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/first@2x.png
+c000000005094C3F80000000000000192
+t1351926776
+s402
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m
+c000000005144CB270000000000000159
+t1363462951
+s345
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/second.png
+c000000005094C3F80000000000000080
+t1351926776
+s128
+
+N/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/second@2x.png
+c000000005094C3F80000000000000082
+t1351926776
+s130
+
+NSmartPantry/SmartPantry-Info.plist
+c000000005144CB27000000000000059A
+t1363462951
+s1434
+
+CBuild AST from /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.m
+r0
+
+CBuild AST from /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m
+r0
+
+CBuild AST from /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m
+r0
+
+CBuild AST from /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m
+r0
+
+CBuild AST from /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m
+r0
+
+CBuild AST from /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb07151d50ef5b641^6ea765d50ef5b641^---0#1#0#--18"Check dependencies36"1E4A7A54-088E-4FE8-937E-6C4660309192-
+
+CCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385158874.087790
+e385158874.407903
+r1
+xCompileC
+xBuild/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.o
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.mf75717da0ef5b641^cf6b68da0ef5b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.m0000000000000000^3925"CompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.o SmartPantry/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-generated-files.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-own-target-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-all-target-headers.hmap -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-project-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources/i386 -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -include /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch -MMD -MT dependencies -MF /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.dia -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/AppDelegate.m -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/AppDelegate.o36"4EA1DCE4-E2EB-4F85-80EF-E03A244446B2-
+
+CCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385158874.391047
+e385158874.514648
+r1
+xCompileC
+xBuild/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.o
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m134564da0ef5b641^8dd083da0ef5b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m0000000000000000^3973"CompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.o SmartPantry/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-generated-files.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-own-target-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-all-target-headers.hmap -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-project-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources/i386 -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -include /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch -MMD -MT dependencies -MF /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.dia -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FirstViewController.m -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FirstViewController.o36"E4A9B228-14B5-48DB-82F9-4010C1BED559-
+
+CCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385158874.516405
+e385158874.626843
+r1
+xCompileC
+xBuild/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.o
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m496384da0ef5b641^1078a0da0ef5b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m0000000000000000^3961"CompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.o SmartPantry/FoodInventoryItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-generated-files.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-own-target-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-all-target-headers.hmap -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-project-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources/i386 -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -include /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch -MMD -MT dependencies -MF /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.d --serialize-diagnostics /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.dia -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/FoodInventoryItem.m -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/FoodInventoryItem.o36"3D3CA649-7B15-4EE3-9A92-A19F95ABAC96-
+
+CCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385158874.511156
+e385158874.638894
+r1
+xCompileC
+xBuild/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.o
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m651883da0ef5b641^8f8ea3da0ef5b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m0000000000000000^3997"CompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.o SmartPantry/InventoryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-generated-files.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-own-target-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-all-target-headers.hmap -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-project-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources/i386 -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -include /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch -MMD -MT dependencies -MF /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.d --serialize-diagnostics /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.dia -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/InventoryViewController.m -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/InventoryViewController.o36"AE8B1BD0-D2BC-4539-8F58-A24C34554FAC-
+
+CCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385158874.409301
+e385158874.509689
+r1
+xCompileC
+xBuild/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.o
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m88f768da0ef5b641^dd7982da0ef5b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m0000000000000000^3979"CompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.o SmartPantry/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-generated-files.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-own-target-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-all-target-headers.hmap -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-project-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources/i386 -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -include /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch -MMD -MT dependencies -MF /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.d --serialize-diagnostics /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.dia -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SecondViewController.m -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SecondViewController.o36"F383836C-64E0-4311-AC4F-9A342EABA4BB-
+
+CCompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385158874.086806
+e385158874.389736
+r1
+xCompileC
+xBuild/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.o
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m855f16da0ef5b641^aad563da0ef5b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m0000000000000000^3883"CompileC Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.o SmartPantry/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-generated-files.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-own-target-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-all-target-headers.hmap -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-project-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources/i386 -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -include /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch -MMD -MT dependencies -MF /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.dia -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/main.m -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/main.o36"66FB0DB7-294C-42F0-8C40-5C98280A90A0-
+
+CCompileStoryboard /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/MainStoryboard.storyboard
+s385158880.415158
+e385158893.052963
+r1
+xCompileStoryboard
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard SmartPantry/en.lproj/MainStoryboard.storyboarddc666ae00ef5b641^fe9d0ded0ef5b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/MainStoryboard.storyboard0000000000000000^1016"CompileStoryboard SmartPantry/en.lproj/MainStoryboard.storyboard    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj/MainStoryboard.storyboardc /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"3C3DC324-9F0D-4ABF-9EE9-85290864F8EB-
+
+CCopyStringsFile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj/InfoPlist.strings SmartPantry/en.lproj/InfoPlist.strings
+s385158880.205722
+e385158880.408782
+r1
+xCopyStringsFile
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj/InfoPlist.strings
+xSmartPantry/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy SmartPantry/en.lproj/InfoPlist.strings5cc734e00ef5b641^fbae68e00ef5b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/en.lproj/InfoPlist.strings0000000000000000^643"CopyStringsFile Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj/InfoPlist.strings SmartPantry/en.lproj/InfoPlist.strings    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/en.lproj -- SmartPantry/en.lproj/InfoPlist.strings36"D8A0A994-96EC-4B58-A564-A5C2A6B9E065-
+
+CCpResource SmartPantry/Default-568h@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/Default-568h@2x.png
+s385158880.412525
+e385158880.417563
+r1
+xCpResource
+xSmartPantry/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/SmartPantry.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/SmartPantry.app/Default-568h@2x.pngc0b369e00ef5b641^b4e76ae00ef5b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Default-568h@2x.png000000000080d041^689"CpResource "SmartPantry/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/SmartPantry.app/Default-568h@2x.png"    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/Default-568h@2x.png" /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"4968F1F3-AD30-4B00-9925-3FC65649E15B-
+
+CCpResource SmartPantry/Default.png Build/Products/Debug-iphonesimulator/SmartPantry.app/Default.png
+s385158880.206394
+e385158880.406762
+r1
+xCpResource
+xSmartPantry/Default.png
+xBuild/Products/Debug-iphonesimulator/SmartPantry.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug-iphonesimulator/SmartPantry.app/Default.png57eb34e00ef5b641^7f3068e00ef5b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Default.png000000000080d041^659"CpResource SmartPantry/Default.png Build/Products/Debug-iphonesimulator/SmartPantry.app/Default.png    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/Default.png /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"81AF91BD-676F-4F23-94E3-A3D83E1E67ED-
+
+CCpResource SmartPantry/Default@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/Default@2x.png
+s385158880.408039
+e385158880.413725
+r1
+xCpResource
+xSmartPantry/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/SmartPantry.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/SmartPantry.app/Default@2x.png588e68e00ef5b641^6af569e00ef5b641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Default@2x.png000000000080d041^674"CpResource "SmartPantry/Default@2x.png" "Build/Products/Debug-iphonesimulator/SmartPantry.app/Default@2x.png"    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/Default@2x.png" /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"A9F567C4-170D-44F4-A739-DE475E8D8D5E-
+
+CCpResource SmartPantry/first.png Build/Products/Debug-iphonesimulator/SmartPantry.app/first.png
+s385158880.418842
+e385158880.422907
+r1
+xCpResource
+xSmartPantry/first.png
+xBuild/Products/Debug-iphonesimulator/SmartPantry.app/first.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Build/Products/Debug-iphonesimulator/SmartPantry.app/first.pngb5536be00ef5b641^6e4f6ce00ef5b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/first.png000000000080d041^653"CpResource SmartPantry/first.png Build/Products/Debug-iphonesimulator/SmartPantry.app/first.png    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/first.png /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"A72E5235-9694-4A92-B35E-ACBB82851365-
+
+CCpResource SmartPantry/first@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/first@2x.png
+s385158880.424426
+e385158880.462283
+r1
+xCpResource
+xSmartPantry/first@2x.png
+xBuild/Products/Debug-iphonesimulator/SmartPantry.app/first@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/SmartPantry.app/first@2x.png4cc36ce00ef5b641^b36076e00ef5b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/first@2x.png000000000080d041^668"CpResource "SmartPantry/first@2x.png" "Build/Products/Debug-iphonesimulator/SmartPantry.app/first@2x.png"    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/first@2x.png" /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"EF67E079-9C05-4CBE-9562-C64BDB9432A7-
+
+CCpResource SmartPantry/second.png Build/Products/Debug-iphonesimulator/SmartPantry.app/second.png
+s385158880.473691
+e385158880.478862
+r1
+xCpResource
+xSmartPantry/second.png
+xBuild/Products/Debug-iphonesimulator/SmartPantry.app/second.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/SmartPantry.app/second.pngbc5b79e00ef5b641^ab987ae00ef5b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/second.png000000000080d041^656"CpResource SmartPantry/second.png Build/Products/Debug-iphonesimulator/SmartPantry.app/second.png    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/second.png /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"020D4676-BFCB-474F-959E-0B32D4AAA0CC-
+
+CCpResource SmartPantry/second@2x.png Build/Products/Debug-iphonesimulator/SmartPantry.app/second@2x.png
+s385158880.480195
+e385158880.489225
+r1
+xCpResource
+xSmartPantry/second@2x.png
+xBuild/Products/Debug-iphonesimulator/SmartPantry.app/second@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/SmartPantry.app/second@2x.png3e067be00ef5b641^db4c7de00ef5b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/second@2x.png000000000080d041^671"CpResource "SmartPantry/second@2x.png" "Build/Products/Debug-iphonesimulator/SmartPantry.app/second@2x.png"    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/second@2x.png" /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"C2AD0F73-B6EE-40D3-846A-1F8B4341E07D-
+
+CGenerateDSYMFile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry
+s385158879.584870
+e385158880.197817
+r1
+xGenerateDSYMFile
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM63d495df0ef5b641^bea332e00ef5b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM000000000080d041^736"GenerateDSYMFile Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app.dSYM36"EB2BE3E7-0E06-449F-908E-00C74BC7E8DF-
+
+CLd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry normal i386
+s385158874.645354
+e385158879.578149
+r1
+xLd
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry9f5aa5da0ef5b641^a11194df0ef5b641^---0#0#0#--1310"Ld Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry normal i386    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator -filelist /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/Objects-normal/i386/SmartPantry.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/SmartPantry36"52779D35-960E-43C6-8A82-E8CC86EE3B23-
+
+CProcessInfoPlistFile /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Info.plist SmartPantry/SmartPantry-Info.plist
+s385158869.457721
+e385158869.483685
+r1
+xProcessInfoPlistFile
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Info.plist
+xSmartPantry/SmartPantry-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process SmartPantry/SmartPantry-Info.plist1e1676d50ef5b641^de7182d50ef5b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SmartPantry-Info.plist0000000000000000^756"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/SmartPantry.app/Info.plist SmartPantry/SmartPantry-Info.plist    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SmartPantry/SmartPantry-Info.plist -genpkginfo /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app/Info.plist36"466E1B83-9A77-4E89-89AE-B467B71DD71B-
+
+CProcessPCH /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.pth SmartPantry/SmartPantry-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385158869.491551
+e385158874.079098
+r1
+xProcessPCH
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.pth
+xSmartPantry/SmartPantry-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile SmartPantry/SmartPantry-Prefix.pch2f507ed50ef5b641^e55e14da0ef5b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SmartPantry-Prefix.pch0000000000000000^3781"ProcessPCH Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.pth SmartPantry/SmartPantry-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-generated-files.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-own-target-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-all-target-headers.hmap -iquote /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/SmartPantry-project-headers.hmap -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources/i386 -I/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/SmartPantry.build/Debug-iphonesimulator/SmartPantry.build/DerivedSources -F/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.dia -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/SmartPantry/SmartPantry-Prefix.pch -o /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.pth -MMD -MT dependencies -MF /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Intermediates/PrecompiledHeaders/SmartPantry-Prefix-cpwiygaqkchbkkhkgdbkwsvqvbqa/SmartPantry-Prefix.pch.d36"374207BB-C8BC-4E76-850E-FE487EE7856D-
+
+CProcessPCH /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/DerivedData/SmartPantry/Index/PrecompiledHeaders/SmartPantry-Prefix-gargkpumpwzzoueadddzmvqfljmv_ast/SmartPantry-Prefix.pch.pth SmartPantry/SmartPantry-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app
+s385158893.060706
+e385158893.139136
+r1
+xTouch
+x/Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app1ba10fed0ef5b641^18b123ed0ef5b641^---0#0#0#--448"Touch Build/Products/Debug-iphonesimulator/SmartPantry.app    cd /Users/jorgeviramontes/Desktop/Programming/SmartPantry2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jorgeviramontes/Desktop/Programming/SmartPantry2/Build/Products/Debug-iphonesimulator/SmartPantry.app36"165C8E6B-D17F-4326-834E-3EE61A5BDBF1-
+
